@@ -44,7 +44,6 @@ fn main() {
     }
     println!("Sum of the priorities is {priority_sum}");
     println!("Sum of the badge priorities is {badge_priority_sum}");
-
 }
 
 fn get_priority(c: char) -> u32 {
